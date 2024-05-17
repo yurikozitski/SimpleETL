@@ -1,5 +1,5 @@
-### Test Task Of Creating Simple ETL CLI Project
-# Number of rows in my table after running the program: 29840
+# Test Task Of Creating Simple ETL CLI Project
+## Number of rows in my table after running the program: 29840
 - Total number of rows: 30000
 - 49 rows coudn't be parsed;
 - 111 rows removed as dublicates;
